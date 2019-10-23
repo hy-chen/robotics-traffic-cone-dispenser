@@ -1,6 +1,6 @@
 /* 
  * File:   global_variable.h
- * Author: Chen
+ * Author: Hongyu Chen
  *
  * Created on February 24, 2019, 9:51 PM
  */
