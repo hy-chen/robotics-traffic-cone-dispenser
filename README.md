@@ -7,18 +7,18 @@ The repo consists of:<br>
 - Team Moments<br>
 - Code Documentation<br>
 <br>
-<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/Mr.%20Krab.jpg">
+<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/imgs/Mr.%20Krab.jpg">
 <br>
-<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/Framework%20-%20Stage%201.jpg">
+<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/imgs/Framework%20-%20Stage%201.jpg">
 
 <br>
-<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/Me%20with%20Mr.%20Krab.jpg">
+<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/imgs/Me%20with%20Mr.%20Krab.jpg">
 <br>
-<img align="middle" width="60%" height="60%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/Team%20Moments%201.jpg">
+<img align="middle" width="60%" height="60%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/imgs/Team%20Moments%201.jpg">
 <br>
-<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/Team%20Moments%203.jpg">
+<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/imgs/Team%20Moments%203.jpg">
 <br>
-<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/Team%20Moments%202.jpg">
+<img align="middle" width="40%" height="40%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/imgs/Team%20Moments%202.jpg">
 
 
 
