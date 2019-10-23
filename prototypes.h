@@ -1,6 +1,6 @@
 /* 
  * File:   prototypes.h
- * Author: Chen
+ * Author: Hongyu Chen
  *
  * Created on February 25, 2019, 2:04 AM
  */
