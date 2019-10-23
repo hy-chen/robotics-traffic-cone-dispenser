@@ -1,3 +1,5 @@
+@author Hongyu Chen
+
 #include <xc.h>
 #include "configBits.h"
 #include <stdlib.h>
