@@ -5,3 +5,5 @@ The repo consists of:<br>
 - Result Showcase<br>
 - Team Moments<br>
 - Code Documentation<br>
+<br>
+<img align="left" width="50%" height="50%" src="https://github.com/hy-chen/robotics-traffic-cone-dispenser/blob/master/Me%20with%20Mr.%20Krab.jpg">
