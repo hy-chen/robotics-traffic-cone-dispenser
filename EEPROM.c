@@ -1,4 +1,4 @@
-@author Hongyu Chen
+#@author Hongyu Chen
 
 #include <xc.h>
 #include "configBits.h"
