@@ -2,6 +2,8 @@
 In this project I served as a embedded software programmer, worked with two other members to design a robot. The robot can automatically track non-even, curved paths to follow, detect road obstacles of various shapes and deploy small traffic cones to accurately cover the obstacles. The robot is also equipped with user-friendly features such as optional remote control, reading and managing operation records, and instantaneous visual communication of operation status.<br>
 <br>
 Click here to see the robot functionality demo: https://www.youtube.com/watch?v=JIYnZrygCA0&feature=youtu.be
+<br>
+NOTE: the full content (except codes) has been moved to: https://ryan-zeyuan-chen.github.io/traffic-cone-deployment-robot/
 <br><br>
 The repository consists of:<br>
 - Process and Methodology Debrief (updating)<br>
